@@ -1,0 +1,15 @@
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\bin\Debug\MyFirstWpfTest.exe.config
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\bin\Debug\MyFirstWpfTest.exe
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\bin\Debug\MyFirstWpfTest.pdb
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.csprojAssemblyReference.cache
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MainWindow.g.cs
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\App.g.cs
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest_MarkupCompile.cache
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest_MarkupCompile.lref
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MainWindow.baml
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.g.resources
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.Properties.Resources.resources
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.csproj.GenerateResource.cache
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.csproj.CoreCompileInputs.cache
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.exe
+C:\Users\96565\Documents\Visual Studio 2019\Project\MyFirstWpfTest\MyFirstWpfTest\obj\Debug\MyFirstWpfTest.pdb
